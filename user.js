@@ -1,2 +1,4 @@
 pan
 adhar
+controller
+router
