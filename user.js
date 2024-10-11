@@ -1,4 +1,3 @@
 pan
 adhar
 controller
-router
